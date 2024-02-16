@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './VW_Jetta_15.jpg';
 
 function App() {
   return (
@@ -7,16 +6,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Для Jetta була призначена різноманітна лінійка силових агрегатів, 
+        що включає бензинові та дизельні мотори. Однак офіційно до нас завозилися не всі версії, 
+        а тільки дві бензинові однакового об’єму 1,4 л, але різної потужності (на 122 або 150 конячок) і турбодизельна 1,6 л. 
+        Саме такі автомобілі в нашій країні набули найбільшого поширення (останні продані Jetta – відмовні партії з Європи з турбодизелями 1,6 л),
+         а ось інші зустрічаються рідко. Модифікації з бензиновим агрегатом 1,2 TSI, як правило, потрапили до нас з Європи, 
+         а з 1,8 TSI, 2,0 TSI, 2,5 л – з Америки. А ось 2,0-літрові соляркові версії завозилися як із Європи, так і зі США.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
       </header>
     </div>
   );
